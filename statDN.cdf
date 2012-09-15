@@ -20,15 +20,16 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       835,         17]
-NotebookDataLength[     49525,       1075]
-NotebookOptionsPosition[     49902,       1070]
-NotebookOutlinePosition[     50257,       1086]
-CellTagsIndexPosition[     50214,       1083]
+NotebookDataLength[     49815,       1079]
+NotebookOptionsPosition[     50193,       1074]
+NotebookOutlinePosition[     50547,       1090]
+CellTagsIndexPosition[     50504,       1087]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
-Cell[BoxData[
+Cell[BoxData[{
+ RowBox[{"Two", " ", "adjacent", " ", "features"}], "\[IndentingNewLine]", 
  Graphics3DBox[
   {RGBColor[0.5, 0.5, 1], EdgeForm[GrayLevel[0.5]], {}, 
    {RGBColor[0.5, 0.5, 1], EdgeForm[GrayLevel[0.5]], 
@@ -560,9 +561,11 @@ Cell[BoxData[
      Scaled[0.1]}},
   Ticks->{Automatic, Automatic, Automatic},
   ViewPoint->{0.5432595090977907, -1.403058018279695, 3.0308905132181674`},
-  ViewVertical->{0., 0., 1.}]], "Input"],
+  ViewVertical->{0., 0., 1.}]}], "Input",
+ CellChangeTimes->{{3.5566834991875863`*^9, 3.556683519094725*^9}}],
 
-Cell[BoxData[
+Cell[BoxData[{
+ RowBox[{"Two", " ", "faraway", " ", "features"}], "\[IndentingNewLine]", 
  Graphics3DBox[
   {RGBColor[0.5, 0.5, 1], EdgeForm[GrayLevel[0.5]], {}, 
    {RGBColor[0.5, 0.5, 1], EdgeForm[GrayLevel[0.5]], 
@@ -1066,10 +1069,11 @@ Cell[BoxData[
      Scaled[0.1]}},
   Ticks->{Automatic, Automatic, Automatic},
   ViewPoint->{0.7631690632596781, -1.975171521332884, 2.63936932660037},
-  ViewVertical->{0., 0., 1.}]], "Input"]
+  ViewVertical->{0., 0., 1.}]}], "Input",
+ CellChangeTimes->{{3.556683523164958*^9, 3.5566835293803134`*^9}}]
 },
-WindowSize->{1350, 633},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowSize->{667, 690},
+WindowMargins->{{0, Automatic}, {0, Automatic}},
 FrontEndVersion->"8.0 for Microsoft Windows (64-bit) (2011\:5e7410\:670824\
 \:65e5)",
 StyleDefinitions->"Default.nb"
@@ -1085,12 +1089,12 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[1235, 30, 24993, 532, 422, "Input"],
-Cell[26231, 564, 23667, 504, 390, "Input"]
+Cell[1235, 30, 25139, 534, 457, "Input"],
+Cell[26377, 566, 23812, 506, 425, "Input"]
 }
 ]
 *)
 
 (* End of internal cache information *)
 
-(* NotebookSignature NxD8nRiSAtoBODKGrBjobSN@ *)
+(* NotebookSignature kupbM7Rnriys4BwiRO27xNEk *)
